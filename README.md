@@ -1,5 +1,5 @@
-!([https://github.com/ahmetsahinler/ahmetsahinler/images/banner.gif](https://github.com/ahmetsahinler/ahmetsahinler/blob/main/images/banner.gif))
 
+<img src="[https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif](https://github.com/ahmetsahinler/ahmetsahinler/images/banner.gif](https://github.com/ahmetsahinler/ahmetsahinler/blob/main/images/banner.gif)" alt="Coding" width=200 height=200 align="right">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmtshnlr) 
 
