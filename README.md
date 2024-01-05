@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ahmetsahinler/ahmetsahinler/blob/main/images/banner.gif" alt="Coding" width=200 height=200 align="right">
+<img src="https://github.com/ahmetsahinler/ahmetsahinler/blob/main/images/banner.gif" alt="Coding">
 
 
 
