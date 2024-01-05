@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/ahmetsahinler/ahmetsahinler/images/banner.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmtshnlr) 
